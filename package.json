@@ -4,10 +4,10 @@
   "description": "Discord voice assistant bot",
   "main": "index.js",
   "dependencies": {
+    "@discordjs/opus": "^0.6.0",
     "discord.js": "^12.5.1",
     "ffmpeg-static": "^4.4.0",
-    "google-tts-api": "^2.0.2",
-    "node-fetch": "^3.0.0"
+    "google-tts-api": "0.0.6"
   },
   "devDependencies": {},
   "scripts": {
