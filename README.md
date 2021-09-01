@@ -9,6 +9,8 @@ Discord.js ^12.5.1
 
 ffmpeg-static ^4.4.0
 
+@discordjs/opus ^0.3.3
+
 google-tts-api ^2.0.2
 
 # Instructions
