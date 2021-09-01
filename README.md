@@ -6,7 +6,9 @@ You Can Easily Fork This Code And Edit The Config and Host.
 # Requirements
 
 Discord.js ^12.5.1
+
 ffmpeg-static ^4.4.0
+
 google-tts-api ^2.0.2
 
 # Instructions
